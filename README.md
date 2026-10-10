@@ -155,18 +155,6 @@ pie showData
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siri-developer111/siri-developer111/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siri-developer111/siri-developer111/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/siri-developer111/siri-developer111/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 🏆 Wins & Badges
 
 <p align="center">
