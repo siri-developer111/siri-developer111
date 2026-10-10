@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:C026D3,100:FF6EC7&height=260&section=header&text=SIRI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Code%20%C2%B7%20Create%20%C2%B7%20Repeat&descAlignY=62&descSize=20&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C026D3,100:FF6EC7&height=230&section=header&text=Hi,%20I%27m%20Siri%20%F0%9F%91%8B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Code%20%C2%B7%20Create%20%C2%B7%20Repeat&descAlignY=56&descSize=18" />
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ pie showData
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6EC7,50:C026D3,100:7F00FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:C026D3,100:7F00FF&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=72" />
 </p>
 
 <p align="center"><i>⭐ If you like my work, drop a star on my repos — it makes my day! ⭐</i></p>
